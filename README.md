@@ -7,8 +7,7 @@ Focused on growth as a Full Stack Developer, creating scalable, secure, and user
 🌐 Socials:
 ------
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecta%20conmigo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Edgardo-Salazar-/)
-[![Email](https://img.shields.io/badge/Gmail-Contáctame-D14836?style=for-the-badge&logo=gmail&logoColor=white)](edgsalazar500@gmail.com)
-
+[![Email](https://img.shields.io/badge/Gmail-Contáctame-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edgsalazar500@gmail.com)
 ----
 🛠 Technical Skills:
 ## 💻 Full Stack Developer
